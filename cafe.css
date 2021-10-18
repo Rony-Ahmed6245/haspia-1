@@ -1,0 +1,89 @@
+one{
+	
+	height:80px;
+	width:18%;
+	float:left;
+}
+
+.two{
+	background-color:#99A7B4;
+	height:80px;
+	width:82%;
+	float:left;
+}
+a{
+	text-decoration:none;
+	//text-align:center;
+	color:green;
+	display:inline-block;
+	padding:10px 20px;
+	margin-right:90px;
+	margin-top:20px;
+
+	font-weight:bold;
+	
+}
+a:hover{
+	background:pink;
+	border-radius:10px;
+}
+p{
+	padding:15px;
+	text-transform:capitalize;
+	font-family:algerain;
+	font-style:italic;
+	text-align:justify;
+}
+h1{
+	text-align:center;
+}
+
+.three{
+	background-color:silver;
+	height:300px;
+	width:100%;
+	float:left;
+}
+	
+.four{
+	background:#8A9732;
+	
+	height:550px;
+	width:35%;
+	float:left;
+}
+
+	
+
+
+
+.five{
+	//background-color:pink;
+	height:250px;
+	width:65%;
+	float:left;
+}
+.img2{
+	float:right;
+	padding:20px;
+}
+	
+.six{
+	
+	height:250px;
+	width:50%;
+	float:left;
+}
+.img1{
+	float:left;
+	padding:20px;
+}
+
+.seven{
+	background-color:indigo;
+	height:50px;
+	width:100%;
+	float:left;
+	text-align:center;
+	font-style:italic;
+}
